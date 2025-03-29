@@ -3,6 +3,11 @@ I adapted Lizhi-sjtu's MAPPO (Multi-Agent Proximal Policy Optimization) algorith
 a forest logging system aimed at maximizing total woody biomass production while maintaining 
 balanced annual yields, thereby enhancing biomass energy utilization.
 
+We can run MAPPO/MAPPO_SMAC_main.py without any modifications to achieve 
+balanced forest production in the Fuji area of Shizuoka Prefecture.
+Additionally, you can modify the input data to match your forest dataset,
+allowing you to tailor the system to your specific requirements.
+
 
 
 MIT License
